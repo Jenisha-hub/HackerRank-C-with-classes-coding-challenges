@@ -1,2 +1,20 @@
-# HackerRank-C++-coding-challenges
-My solutions to HackerRank C++ coding challenges
+# 🚀 HackerRank-C++-programming-solutions
+My solutions to HackerRank coding challenges
+
+
+Welcome to my repository! This project tracks my progress and contains my verified solutions for various C++ programming coding challenges on HackerRank. It serves as a personal log of my programming journey and problem-solving skills.
+
+---
+
+## 📂 Repository Structure & Solved Challenges
+
+### 💠 1. Introduction Basics
+* 'Hello World' - Understanding standard output formatting ('printf').
+
+  
+---
+
+## 📈 Learning Objectives
+* Master C++ and be strong in using classes and methods.
+* Write clean, optimized, and readable logic that clears all automated edge cases.
+
