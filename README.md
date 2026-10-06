@@ -11,6 +11,7 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 ### 💠 1. Introduction Basics
 * 'Hello World' - Understanding standard output formatting ('printf').
 * 'Input and Output' - Understanding on how to get input and output.
+* 'Basic data types' - Understanding the various data types in C++.
   
 ---
 
